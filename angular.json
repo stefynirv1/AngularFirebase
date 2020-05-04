@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pruebaFirebase"
+    }
+  },
+  "defaultProject": "pruebaFirebase",
+  "cli": {
+    "analytics": "0143e062-9832-470e-8828-fd8b470b0a68"
+  }
 }
